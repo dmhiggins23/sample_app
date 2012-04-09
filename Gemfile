@@ -46,3 +46,11 @@ end
 
 # To use debugger
 # gem 'ruby-debug19', :require => 'ruby-debug'
+#
+
+source 'https://rubygems.org'
+
+gem 'rails', '3.2.3'
+gem 'bootstrap-sass', '2.0.0'
+
+
